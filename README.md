@@ -18,6 +18,6 @@ Este repositório contém a estrutura de um banco de dados desenvolvida a partir
 O arquivo `schema.sql` contém o script SQL responsável por criar o banco de dados e todas as tabelas do sistema.
 
 ## Requisitos
-- MySQL
+MySQL
 ## Como executar
 Execute o arquivo `schema.sql` no seu gerenciador MySQL.
