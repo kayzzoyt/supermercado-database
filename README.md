@@ -19,5 +19,6 @@ O arquivo `schema.sql` contém o script SQL responsável por criar o banco de da
 
 ## Requisitos
 MySQL
+
 ## Como executar
 Execute o arquivo `schema.sql` no seu gerenciador MySQL
