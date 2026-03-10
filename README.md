@@ -1,9 +1,9 @@
 # supermercado-database
-Modelagem de banco de dados de um sistema de supermercado (conceitual, lógico e físico).
+Modelagem de banco de dados de um sistema de supermercado (conceitual, lógico e físico)
 
 ## Sobre o projeto
 
-Este repositório contém a estrutura de um banco de dados desenvolvida a partir das etapas de modelagem conceitual, lógica e física.
+Projeto acadêmico - Modelagem conceitual, lógica e física de um banco de dados para supermercado
 
 ## Modelo conceitual
 
@@ -15,9 +15,9 @@ Este repositório contém a estrutura de um banco de dados desenvolvida a partir
 
 ## Modelo físico
 
-O arquivo `schema.sql` contém o script SQL responsável por criar o banco de dados e todas as tabelas do sistema.
+O arquivo `schema.sql` contém o script SQL responsável por criar o banco de dados e todas as tabelas do sistema
 
 ## Requisitos
 MySQL
 ## Como executar
-Execute o arquivo `schema.sql` no seu gerenciador MySQL.
+Execute o arquivo `schema.sql` no seu gerenciador MySQL
